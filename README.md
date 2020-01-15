@@ -14,10 +14,10 @@ This project aims to train a SARSA agent to learn policies in the Frozen Lake en
 <p align="center"><img src="./img/frozen_lake_0.png" alt="Frozen Lake" width="256" /></p>
 
 ### Random Strategy
-<img src="./img/result_img_0.png" alt="Random Strategy" align="middle" width="512" />
+<p align="center"><img src="./img/result_img_0.png" alt="Random Strategy" align="middle" width="512" /></p>
 
 ### SARSA Agent
-<img src="./img/result_img_1.png" alt="SARSA Agent"  align="middle" width="512" /> 
+<p align="center"><img src="./img/result_img_1.png" alt="SARSA Agent"  align="middle" width="512" /></p>
 
 ## Directory
 + **./img** - to save the output
