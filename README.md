@@ -11,13 +11,13 @@ This project aims to train a SARSA agent to learn policies in the Frozen Lake en
 + F: Frozen Surface
 + H: Hole State
 
-![Frozen Lake](img/frozen_lake_0.png)
+<img src="./img/frozen_lake_0.png" alt="Frozen Lake" align="middle" width="512" />
 
 ### Random Strategy
-<img src="./img/result_img_0.png" alt="Random Strategy" width="512" />
+<img src="./img/result_img_0.png" alt="Random Strategy" align="middle" width="512" />
 
 ### SARSA Agent
-<img src="./img/result_img_1.png" alt="SARSA Agent"  width="512" /> 
+<img src="./img/result_img_1.png" alt="SARSA Agent"  align="middle" width="512" /> 
 
 ## Directory
 + **./img** - to save the output
