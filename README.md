@@ -3,6 +3,16 @@
 ## Introduction
 This project aims to train a SARSA agent to learn policies in the Frozen Lake environment from OpenAI gym.
 
+### Frozen Lake
+[Frozen Lake](https://gym.openai.com/envs/FrozenLake-v0/) is an environment where an agent is able to move a character in a grid world. Starting from the state *S*, the agent aims to move the character to the goal state *G* for a reward of 1. Although the agent can pick one of four possible actions at each state including *left*, *down*, *right*, *up*, it only succeeds $\frac{1}{3}$ of the times due to the slippery frozen state *F*. The agent is likely to move to any other directions for the remaining $\frac{2}{3}$ times evenly. Additionally, stepping in a hole state *H* will lead to a bad ending with a reward of 0.
+
++ S: Start State
++ G: Goal State
++ F: Frozen Surface
++ H: Hole State
+
+![Frozen Lake](img/frozen_lake_0.png)
+
 ### Random Strategy
 <img src="./img/result_img_0.png" alt="Random Strategy" width="512" />
 
